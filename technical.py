@@ -1,6 +1,3 @@
-import pandas as pd
-import pandas_ta as ta
-
 class TechnicalIndicators:
     def __init__(self, df):
         self.df = df
